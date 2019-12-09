@@ -1,1 +1,1 @@
-web: java -jar target/direction_api.war
+web: java -jar target/direction_api-0.0.1-SNAPSHOT.war
